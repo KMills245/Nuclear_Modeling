@@ -1,5 +1,12 @@
 # Nuclear_Modeling
-Visualization of Nuclear Engineering Concepts using MATLAB and Python
+Visualization of Nuclear Engineering Concepts using MATLAB and Python. A tool to improve coding skills and understanding of some fundemental 
+
+In this Github repository we will be going through the following concepts 
+1) Radioactive Decay Simulation
+2) Heat Conduction in a Fuel Rod (1D)
+3) Neutron Attenuation Through a Shield
+4) Simple Monte Carlo Neutron Transport
+5) Uranium Enrichment Process (Gas Centrifuge Method) 
 
 Developed by 
 [Kyle Mills](https://github.com/KMills245)
